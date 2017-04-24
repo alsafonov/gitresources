@@ -6,5 +6,6 @@ namespace GitResources
 {
     public partial class Startup
     {
+        My comment on github.
     }
 }
